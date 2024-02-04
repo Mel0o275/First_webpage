@@ -1,0 +1,112 @@
+body {
+    background-color: rgb(255, 77, 0);
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color:rgb(35, 23, 12);;
+    overflow: hidden;
+}
+
+select {
+    background-color:rgb(35, 23, 12);;
+    color: white;
+    padding: 10px;
+    border: none;
+    font-size: 16px;
+}
+
+option {
+    background-color:rgb(35, 23, 12);;
+    color: white;
+    padding: 10px;
+}
+
+.workers {
+    background-color: white;
+}
+
+.f {
+    background-color: rgb(255, 77, 0);
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px 50px;
+}
+
+.Adam {
+    text-align: left;
+}
+
+.Mary {
+    text-align: center;
+}
+
+.Ann {
+    text-align: right;
+}
+
+.Adam img,
+.Mary img,
+.Ann img {
+    border-radius: 70%;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    margin-bottom: 5px;
+}
+
+.Adam h1,
+.Mary h1,
+.Ann h1,
+.Adam p,
+.Mary p,
+.Ann p {
+    font-style: italic;
+    padding: 2px;
+}
+
+
+
+.button {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    size: 50%;
+}
+
+.contact {
+    background-color: rgb(255, 255, 255);
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    padding: 20px 50px;
+    width: 60%;
+    height: 30%;
+    border: 2px solid rgb(255, 255, 255);
+    margin:auto;
+    left: 50%;
+}
+
+
+.tele {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 70px;
+    color: white;
+}
+
+.call img {
+    margin-right: 10px;
+}
+
+.location {
+    margin-left: 250px;
+}
+
+footer {
+    background-color:rgb(35, 23, 12);
+    color: white;
+    text-align: center;
+    padding-bottom: 70px;
+}
