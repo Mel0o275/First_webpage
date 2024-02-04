@@ -5,12 +5,12 @@ body {
 }
 
 nav {
-    background-color:rgb(35, 23, 12);;
+    background-color:rgb(35, 23, 12);
     overflow: hidden;
 }
 
 select {
-    background-color:rgb(35, 23, 12);;
+    background-color:rgb(35, 23, 12);
     color: white;
     padding: 10px;
     border: none;
@@ -18,7 +18,7 @@ select {
 }
 
 option {
-    background-color:rgb(35, 23, 12);;
+    background-color:rgb(35, 23, 12);
     color: white;
     padding: 10px;
 }
